@@ -34,6 +34,13 @@ My journey spans from building predictive ML models to creating interactive web 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-009688?style=for-the-badge&logo=mlflow&logoColor=white)  
 
 ---
+## 🧩 Competitive Programming  
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajay1501?theme=dark&font=Roboto&ext=activity)
+
+---
 
 ## 📌 Featured Projects  
 
