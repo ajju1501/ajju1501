@@ -13,7 +13,6 @@ My journey spans from building predictive ML models to creating interactive web 
 - 💻 Skilled in **AI/ML Engineering, Data Science, and MERN Full Stack Development**.  
 - 📊 Strong in **EDA, Model Training, Time Series Forecasting, and Clustering**.  
 - 🤖 Exploring **AI Ethics, Generative AI, and MLOps**.  
-- 🏆 Led multiple projects as **Team Head**, ensuring timely delivery and collaboration.  
 
 ---
 ## 🛠️ Skills  
