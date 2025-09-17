@@ -46,13 +46,6 @@ My journey spans from building predictive ML models to creating interactive web 
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajju1501&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajju1501&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Let's Connect!  
 
 💼 [LinkedIn](https://www.linkedin.com/in/pagidipally-ajaykumar-6208881a3/)  
